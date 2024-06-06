@@ -1,4 +1,3 @@
-![Header](./myheader.png)
 ## 💫 About Me:
 <b> Welcome - Your Partner in Software Excellence! </b> </br>
 We are a small software development consulting firm, specializing in transforming ideas into innovative solutions. With a focus on the complete SDLC, our team navigates changes and challenges, ensuring a comprehensive understanding of your operations and aspirations. 
