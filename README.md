@@ -1,17 +1,12 @@
 ![Header](./github-header-image.png)
 ## 💫 About Me:
-<b> Welcome - Your Partner in Software Excellence! </b> </br>
-We are a small software development consulting firm, specializing in transforming ideas into innovative solutions. With a focus on the complete SDLC, our team navigates changes and challenges, ensuring a comprehensive understanding of your operations and aspirations. 
+### LEAD DATA AND ANALYTICS ENGINEER
+<b> Reporting / Information Solutions / Tools & Frameworks / Customer Service </b>
+
 
 ## ⚡ Services We Offer: 
-- Expert Business Analysis 
-- Strategic Technological Innovation 
-- Keen Solution Architecture
-- EDI Cloud Engineering
-- Tailored Data Visualization Solutions 
-- Manual and Automated Testing Excellence </br> </br> 
+
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sztekk&label=Profile%20views&color=0e75b6&style=flat" alt="sztekk" /> </p>
   - 🔭 I’m currently working on <b>  </b>  </br> 
   - 🌱 I’m currently learning <b> Playwright, IBM Sterling, Machine Learning, & AI</b> </br> 
   - 👯 I’m looking to collaborate on <b> SaaS Projects </b> </br> 
