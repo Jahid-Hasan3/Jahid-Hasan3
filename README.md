@@ -2,7 +2,19 @@
 ## 💫 About Me:
 ### LEAD DATA AND ANALYTICS ENGINEER
 <b> Reporting / Information Solutions / Tools & Frameworks / Customer Service </b>
+Dedicated professional showcasing 11+ years of achievements in data and analytics roles for industry-leading clients like Capgemini, Citibank, and UnitedHealth Group. Incorporates best practices to deliver outstanding analytics and data design, including managing data transformation efforts and facilitating large-scale technology projects. Delivers superb customer service while upholding strict attention to detail. Implements specialized tools and frameworks for automating report generation, enabling key business improvements and consistently exceeding expectations.
 
+### CAREER HIGHLIGHTS
+- Drove a reduction in work hours for Citibank
+  (via Rose International) after building out a cost optimization Excel report that analyzed over-provisioned, unused, and idle resources in Azure.
+- Enabled a significant boost in profits
+  after crafting engaging visualizations within Power BI, translating complex data into actionable insights.
+- Delivered valued aid in a cloud environment setup
+  with credentialing and authentication in mind at Capgemini (via MBO Partners), fostering clear and consistent team communication.
+- Overachieved on goals as a technical resource
+  for major projects involving systems integration, data visualizations, and reporting solutions.
+- Developed a well-received logical and physical database structure
+  to facilitate the analysis of data and increase the accuracy of related reporting/forecasting at Group One Automotive.
 
 ## ⚡ Services We Offer: 
 
