@@ -30,27 +30,6 @@ MBO Partners: MVP Award (x4), Collaboration Award (X2)
 ### 🌐 COMMUNITY ENGAGEMENT
 New Era 8 Foundation / National MS Society
 
-## ⚡ Services We Offer: 
-
-  
-  - 🔭 I’m currently working on <b>  </b>  </br> 
-  - 🌱 I’m currently learning <b> Playwright, IBM Sterling, Machine Learning, & AI</b> </br> 
-  - 👯 I’m looking to collaborate on <b> SaaS Projects </b> </br> 
-  - 🤝 I’m looking for help with <b> UI/UX  </b> </br> 
-  - 💬 Ask me about <b> Cypress, Selenium, EDI, API, Python, XML, JSON, Requirements </b> </br> 
-  - 📫 How to reach me <b>  </b> </br> 
-  - ⚡ Fun fact <b> I am an avid musician.</b> </br> </br> </br>
-<b> Explore our GitHub repository to discover the projects and tools that showcase our commitment to quality, efficiency, and transformative software solutions. Partner with us for a journey into the future of software excellence! </b> </br> </br>
-<p img align="right" alt="Coding" width="400" src="”>
-
-
-<p align="left">
-  <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="Your Giphy Description" width="480" height="360" />
-</p>
-<p align="left">
-  <a href="https://giphy.com/gifs/scaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm"> </a>
-</p>
-
 ### 💻 Connect with me:
 ☎️ <b>(213) 810-6099 </b>
 ✉️ <b>TL2CMG@GMAIL.COM </b>
